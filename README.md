@@ -1,6 +1,6 @@
 ## Hi, I'm Pranav 👋
 
-Backend engineer with 3.5 years of experience building Python and Java services, Kafka event pipelines, and production LLM systems.
+Backend engineer with 3.5 years of experience building Python and Java services, Kafka event pipelines, and production LLM systems.<br>
 Python Developer @ UST (client: Intel) · M.Tech Computer Science Engineering @ IIT Jodhpur
 
 ### 🔭 What I'm working on
@@ -10,9 +10,9 @@ Python Developer @ UST (client: Intel) · M.Tech Computer Science Engineering @ 
 
 ### 🛠️ Tech stack
 
-**Backend:** Python · Java · Django · FastAPI · Spring Boot · REST · Apache Kafka · MySQL · Redis · Keycloak
-**AI / ML:** RAG · Hugging Face · PyTorch · OpenVINO · ONNX Runtime · XGBoost · LightGBM · SHAP · Whisper
-**MLOps & infra:** Docker · AWS (EC2, ELB) · GitHub Actions · MLflow · DVC · Linux
+- **Backend:** Python · Java · Django · FastAPI · Spring Boot · REST · Apache Kafka · MySQL · Redis · Keycloak
+- **AI / ML:** RAG · Hugging Face · PyTorch · OpenVINO · ONNX Runtime · XGBoost · LightGBM · SHAP · Whisper
+- **MLOps & infra:** Docker · AWS (EC2, ELB) · GitHub Actions · MLflow · DVC · Linux
 
 ### 🚀 Featured projects
 
