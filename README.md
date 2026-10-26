@@ -81,13 +81,13 @@ On the side, **ALLM-1**: fine-tuning, quantizing and serving small transformer m
 ### 🎙️ Speech AI
 | Repo | What it does |
 |---|---|
-| [speech_understanding_assignment2](https://github.com/Pranav-Sri-Vasthav-Tenali-Gnana/speech_understanding_assignment2) | Whisper transcription of a Hinglish lecture → IPA → Maithili translation → zero-shot voice cloning, with adversarial-robustness and anti-spoofing checks |
+| [hinglish-to-maithili-speech-pipeline](https://github.com/Pranav-Sri-Vasthav-Tenali-Gnana/hinglish-to-maithili-speech-pipeline) | Code-switched Hinglish lecture → language ID + Whisper large-v3 with n-gram biasing → IPA → Maithili translation → MMS-TTS synthesis, plus LFCC anti-spoofing and FGSM adversarial attacks |
 | [Spoken digit recognition](https://github.com/Pranav-Sri-Vasthav-Tenali-Gnana/M25DE1041_M25DE1068_M25DE1069) | Team project: SVM and Random Forest on MFCCs vs a CNN on Mel-spectrograms, with noise-robustness and per-speaker fairness evaluation |
 
 ### 🧩 DSA
 | Repo | What it does |
 |---|---|
-| [neetcode-submissions](https://github.com/Pranav-Sri-Vasthav-Tenali-Gnana/neetcode-submissions-m0lxsok5) | My DSA practice in Java, synced from NeetCode |
+| [neetcode-submissions](https://github.com/Pranav-Sri-Vasthav-Tenali-Gnana/neetcode-submissions-m0lxsok5) | 99 DSA problems solved in Java (arrays, two pointers, sliding window, stacks, binary search, linked lists, trees, heaps, backtracking), synced from NeetCode |
 
 ## 🧰 Languages and Tools
 
